@@ -38,7 +38,8 @@ Going below the red line signifies the fail condition for the network.
 The numbers below shows how many nodes were removed before passing the red line.
 
 ![Chicago_road_both_visu.png](Visualization%2FChicago_road_both_visu.png)
-Below is the map of the Chicago road network after strategic bombardment, the main components are colored differently for easier distinction:
+Below is the map of the Chicago road network after strategic bombardment with the main components being colored differently for easier distinction:
+
 ![Chicago_road_network_components_after_strategic.png](Visualization%2FChicago_road_network_components_after_strategic.png)
 
 Seeing both the map and the right graph we can see the exact moment and place when the 
